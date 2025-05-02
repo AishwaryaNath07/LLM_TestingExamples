@@ -1,0 +1,16 @@
+pandas
+datasets
+openai
+deepeval
+sentence_transformers
+torch
+torchvision
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
+pillow
+requests
+chromadb
+pypdf
+nltk
+rouge-score
