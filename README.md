@@ -6,7 +6,7 @@
 
 Simple LLM Funtional testing code examples
 input folder contains all files used in the code
-
+add your OPEN_API_KEY in .env file
 
 
 ## Installation
