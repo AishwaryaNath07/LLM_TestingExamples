@@ -46,8 +46,8 @@ def calculate_clip_similarity(image1, image2):
 # Example usage
 if __name__ == "__main__":
     # Example filenames - replace with your actual image filenames
-    image_file1 = "input/cat1.jpg"
-    image_file2 = "input/cat2.jpg"
+    image_file1 = "inputs/cat1.jpg"
+    image_file2 = "inputs/cat2.jpg"
     
     try:
         img1 = load_image_from_file(image_file1)
